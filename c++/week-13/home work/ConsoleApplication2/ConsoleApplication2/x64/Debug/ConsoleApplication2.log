@@ -1,0 +1,3 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\rezan\Desktop\c++\week-13\home work\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(52,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  ConsoleApplication2.vcxproj -> C:\Users\rezan\Desktop\c++\week-13\home work\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe

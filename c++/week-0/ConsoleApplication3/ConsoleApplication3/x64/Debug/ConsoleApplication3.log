@@ -1,0 +1,31 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\rezan\Desktop\c++\week-0\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(6,13): error C2001: newline in constant
+C:\Users\rezan\Desktop\c++\week-0\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(7,11): error C2017: illegal escape sequence
+C:\Users\rezan\Desktop\c++\week-0\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(7,13): error C2059: syntax error: '/'
+C:\Users\rezan\Desktop\c++\week-0\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(7,44): error C2017: illegal escape sequence
+C:\Users\rezan\Desktop\c++\week-0\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(7,59): error C2017: illegal escape sequence
+C:\Users\rezan\Desktop\c++\week-0\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(8,13): error C2017: illegal escape sequence
+C:\Users\rezan\Desktop\c++\week-0\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(8,15): error C2017: illegal escape sequence
+C:\Users\rezan\Desktop\c++\week-0\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(8,20): error C2017: illegal escape sequence
+C:\Users\rezan\Desktop\c++\week-0\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(8,43): error C2017: illegal escape sequence
+C:\Users\rezan\Desktop\c++\week-0\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(8,47): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\rezan\Desktop\c++\week-0\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(8,47): error C2015: too many characters in constant
+C:\Users\rezan\Desktop\c++\week-0\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(8,77): warning C4129: '|': unrecognized character escape sequence
+C:\Users\rezan\Desktop\c++\week-0\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(8,77): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\rezan\Desktop\c++\week-0\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(9,1): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\rezan\Desktop\c++\week-0\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(9,1): warning C4129: '|': unrecognized character escape sequence
+C:\Users\rezan\Desktop\c++\week-0\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(9,1): error C2001: newline in constant
+C:\Users\rezan\Desktop\c++\week-0\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(9,1): error C2015: too many characters in constant
+C:\Users\rezan\Desktop\c++\week-0\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(10,14): error C2017: illegal escape sequence
+C:\Users\rezan\Desktop\c++\week-0\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(10,16): error C2017: illegal escape sequence
+C:\Users\rezan\Desktop\c++\week-0\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(10,24): error C2017: illegal escape sequence
+C:\Users\rezan\Desktop\c++\week-0\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(10,48): error C2017: illegal escape sequence
+C:\Users\rezan\Desktop\c++\week-0\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(10,50): error C2017: illegal escape sequence
+C:\Users\rezan\Desktop\c++\week-0\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(10,55): error C2017: illegal escape sequence
+C:\Users\rezan\Desktop\c++\week-0\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(10,65): error C2017: illegal escape sequence
+C:\Users\rezan\Desktop\c++\week-0\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(10,67): error C2017: illegal escape sequence
+C:\Users\rezan\Desktop\c++\week-0\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(10,72): error C2017: illegal escape sequence
+C:\Users\rezan\Desktop\c++\week-0\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(10,91): error C2017: illegal escape sequence
+C:\Users\rezan\Desktop\c++\week-0\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(10,96): error C2017: illegal escape sequence
+C:\Users\rezan\Desktop\c++\week-0\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(10,103): error C2017: illegal escape sequence
+C:\Users\rezan\Desktop\c++\week-0\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(10,105): error C2001: newline in constant

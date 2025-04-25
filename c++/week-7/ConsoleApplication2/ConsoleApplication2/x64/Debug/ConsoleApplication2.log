@@ -1,0 +1,3 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\rezan\Desktop\c++\week-7\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(25,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  ConsoleApplication2.vcxproj -> C:\Users\rezan\Desktop\c++\week-7\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe

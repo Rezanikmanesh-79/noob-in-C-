@@ -1,0 +1,4 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\rezan\Desktop\c++\week-3\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(12,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rezan\Desktop\c++\week-3\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6,27): warning C4101: 'x': unreferenced local variable
+  ConsoleApplication2.vcxproj -> C:\Users\rezan\Desktop\c++\week-3\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe

@@ -1,0 +1,12 @@
+reza 3 20 
+fatemeh 10 19 
+ayda 7 18 
+maryam 9 18 
+ali 1 17 
+zahra 6 17 
+hosean 5 16 
+zahra 8 16 
+payman 4 15 
+mmd 2 13 
+Average Score: 16.9
+Median Score: 17

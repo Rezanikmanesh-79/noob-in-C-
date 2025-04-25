@@ -1,0 +1,10 @@
+ali 1 17
+mmd 2 13
+reza 3 20
+payman 4 15
+hosean 5 16
+zahra 6 17
+ayda 7 18
+zahra 8 16
+maryam 9 18
+fatemeh 10 19
